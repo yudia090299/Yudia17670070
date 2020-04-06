@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TugasPertemuan5Feby</string>
-    <string name="move_activity">Pindah Layout</string>
-    <string name="move_pesan">Kirim Pesan</string>
+    <string name="move_activity">Produk</string>
+    <string name="move_pesan">Pemesanan</string>
     <string name="dial_number">Dial a Number</string>
     <string name="data_received">Data Diterima</string>
     <string name="this_is_moveactivity">Ini Contoh RelatifLayout</string>
@@ -11,4 +11,38 @@
     <string name="message">Message</string>
     <string name="subject">Subject</string>
     <string name="send">Send</string>
+    <string name="teks1">Deskripsi Barang :</string>
+    <string name="teks2">sepatu casual dengan desaign menarik dan berbahan nyaman untuk di pakai dengan harga bersahabat tanpa menurunkan kualitas produk . kondisi 100% baru produk ready dan tersedia ukuran dari 37-40chart size patokan panjang kaki 37 :22 cm
+38 :23 cm
+39 :24 cm
+40 :25 cmsaran untuk lovely customer bila kehabisan stok size yang ingin di pesan bisa pesan size 1 nomer diatasnya karena beda sol sepatu hanya +/-1cm
+produk di toko kami REAL PICT sendiri langsung dari produknya .
+pengiriman produk ini sudah menggunakan dus keras untuk menjamin keamanan selama dalam proses pengirimanNOTE: silahkan klik BELI jika stok tersedia dan pilih sesuai VARIASI yang diinginkan ,mohon maaf tidak bisa untuk pergantian warna/pemilihan warna melalui chat karna kami proses sesuai sistem varisi yang sudah terpilih .
+terimakasih , happy shopping :)</string>
+    <string name="sepatu1">SEPATU MEOW</string>
+    <string name="sepatu2">SEPATU KETS</string>
+    <string name="sepatu3">SNEAKERS</string>
+    <string name="teks3">Deskripsi Produk :
+Sepatu Sneakers Ini sangat cocok untuk kegiatan beraktifitas setiap Hari, dengan menggunakan bahan dan material yang baik sandal ini sangatlah nyaman untuk di pakai.
+
+• Kondisi : Baru
+• Size 36, 37,38,39,40
+• Bahan : Synthetic Leather
+
+Size Chart :
+• 36 = 22,5  Cm
+• 37 = 23 Cm
+• 38 = 23.5 Cm
+• 39 = 24 Cm27-4-1-B
+
+• 40 = 24.5 Cm
+
+Perawatan :
+• Simpan produk ini di dalam Box atau Dus
+• Pastikan Tempat penyimpanan Dalam keadaan kering dan tidak Lembab
+• Kami juga menjual Rak Sepatu Untuk menyimpan Koleksi Anda agar lebih rapi dan Aman, Cek Katalog kami : “RAK SEPATU”
+
+
+Produk yang kami pesan akan kami kirimkan dengan dus sehingga lebih aman saat pengiriman
+</string>
 </resources>
